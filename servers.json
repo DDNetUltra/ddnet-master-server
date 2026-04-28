@@ -451,9 +451,9 @@
         "country": 840,
         "name": "DDNet USA4 - Moderate",
         "map": {
-          "name": "FindTheFreeze",
-          "sha256": "b1018b9b96efe4d4b5778fdff5bb93580d53d8d2bff9ed6327228c932be9d144",
-          "size": 81127
+          "name": "Freeze Jungle",
+          "sha256": "5b8a0ead88b889b86373ad9faf06924ecf29c69f48ad8102493957da8d73b690",
+          "size": 505696
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
@@ -467,6 +467,18 @@
             "is_player": true,
             "skin": {
               "name": "AmethystCat"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "Tastyxis",
+            "clan": "Food",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "CrystalCat"
             },
             "afk": false,
             "team": 0
@@ -487,16 +499,31 @@
         "passworded": false,
         "game_type": "DDraceNetwork",
         "country": 840,
-        "name": "DDNet USA4 - Novice",
+        "name": "DDNet USA4 - Solo",
         "map": {
-          "name": "Introduction",
-          "sha256": "16ee235388df420ca15ef7a819dfc214319c4dac97762d0ae7dee76d98f91f8e",
-          "size": 152105
+          "name": "Fly to the Legends 2",
+          "sha256": "830e2ab12ff5dd4ebae4085a26648da3cf27070a115a57557041a22011f1f62d",
+          "size": 347589
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "Apyreck",
+            "clan": "",
+            "country": 250,
+            "score": 179,
+            "is_player": true,
+            "skin": {
+              "name": "mermydon-coala",
+              "color_body": 9343237,
+              "color_feet": 13238272
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -966,32 +993,7 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": [
-          {
-            "name": "jeik",
-            "clan": "",
-            "country": 76,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "Blazulite_Purple"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "[D] jeik",
-            "clan": "",
-            "country": 76,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "Blazulite_Orange"
-            },
-            "afk": false,
-            "team": 0
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -1104,7 +1106,7 @@
             "skin": {
               "name": "banana"
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
@@ -1120,6 +1122,18 @@
             "team": 0
           },
           {
+            "name": "jeik",
+            "clan": "",
+            "country": 76,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Blazulite_Purple"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "[D] Markyx",
             "clan": "",
             "country": 32,
@@ -1129,6 +1143,18 @@
               "name": "darknami"
             },
             "afk": true,
+            "team": 0
+          },
+          {
+            "name": "[D] jeik",
+            "clan": "",
+            "country": 76,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Blazulite_Orange"
+            },
+            "afk": false,
             "team": 0
           }
         ]
@@ -1524,7 +1550,7 @@
             "name": "Gibon4ik",
             "clan": "",
             "country": 466,
-            "score": 964,
+            "score": 765,
             "is_player": true,
             "skin": {
               "name": "Babygamer-ninja"
@@ -1661,7 +1687,7 @@
             "score": -9999,
             "is_player": true,
             "skin": {
-              "name": "skadi",
+              "name": "lapland",
               "color_body": 8,
               "color_feet": 16777215
             },
@@ -2859,20 +2885,7 @@
         "flags": [
           "tutorial"
         ],
-        "clients": [
-          {
-            "name": "idgaf",
-            "clan": "",
-            "country": 76,
-            "score": 400,
-            "is_player": true,
-            "skin": {
-              "name": "eggp"
-            },
-            "afk": false,
-            "team": 0
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -3094,7 +3107,7 @@
             "skin": {
               "name": "tima11"
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
@@ -3714,7 +3727,7 @@
               "color_body": 185,
               "color_feet": 14417664
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -3845,6 +3858,18 @@
             "team": 0
           },
           {
+            "name": "The queen",
+            "clan": "",
+            "country": 380,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "IceWitch_IceQueen"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "[D] Blow Up",
             "clan": "",
             "country": 792,
@@ -3949,9 +3974,9 @@
         "country": 905,
         "name": "DDNet GER - Brutal",
         "map": {
-          "name": "Grandpa",
-          "sha256": "b3a28207c205d970046761c467f7d1fcab1db57ba6348c3986f7c338934e41b9",
-          "size": 253666
+          "name": "Highlife",
+          "sha256": "44ba811998df0bc6977d24485bf1fb750870b7c1f237332b8523b7065756f10f",
+          "size": 752974
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
@@ -4049,11 +4074,11 @@
         "passworded": false,
         "game_type": "DDraceNetwork",
         "country": 905,
-        "name": "DDNet GER - Solo",
+        "name": "DDNet GER - Brutal",
         "map": {
-          "name": "Lonely Swim 9.2",
-          "sha256": "b187d9e63527a121cbd7e49fa19abd1cd7435868ed3bc8423fa8eb6ce0ed9850",
-          "size": 117335
+          "name": "Waldeinsamkeit",
+          "sha256": "2e5371688d56520679560dca7948b735f6ff5024f0620df46ab5aa6e109382c3",
+          "size": 769350
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
@@ -4085,7 +4110,7 @@
               "color_feet": 65531
             },
             "afk": false,
-            "team": 1
+            "team": 0
           }
         ]
       }
@@ -4456,6 +4481,20 @@
         "requires_login": false,
         "clients": [
           {
+            "name": "Freshcool",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "random",
+              "color_body": 5963648,
+              "color_feet": 1441536
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "Wamos",
             "clan": "CopyCat",
             "country": -1,
@@ -4463,6 +4502,18 @@
             "is_player": true,
             "skin": {
               "name": "darkcat"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "jana",
+            "clan": "Đono₩all",
+            "country": -1,
+            "score": 1101,
+            "is_player": true,
+            "skin": {
+              "name": "default_flower"
             },
             "afk": false,
             "team": 0
@@ -4807,7 +4858,7 @@
             "score": 551,
             "is_player": true,
             "skin": {
-              "name": "10Nanami_glow",
+              "name": "cute_pusheen_kiinmn",
               "color_body": 48640,
               "color_feet": 1350400
             },
@@ -5238,7 +5289,7 @@
             "is_player": true,
             "skin": {
               "name": "pinky",
-              "color_body": 2949119,
+              "color_body": 7929752,
               "color_feet": 2817792
             },
             "afk": false,
@@ -5361,18 +5412,6 @@
             "team": 0
           },
           {
-            "name": "0031",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "biggesttroll"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "bassurhan",
             "clan": "",
             "country": 792,
@@ -5434,18 +5473,6 @@
               "name": "ghost",
               "color_body": 1507116,
               "color_feet": 8060707
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "Jonasss",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "bluekittydemon"
             },
             "afk": false,
             "team": 0
@@ -5742,18 +5769,6 @@
         "requires_login": false,
         "clients": [
           {
-            "name": "wubaop",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "santa_flokes"
-            },
-            "afk": true,
-            "team": 0
-          },
-          {
             "name": "Mery ♥",
             "clan": "YEP",
             "country": 598,
@@ -5817,6 +5832,18 @@
               "name": "bluestripe",
               "color_body": 11028143,
               "color_feet": 8612696
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "Felo",
+            "clan": "",
+            "country": 262,
+            "score": 748,
+            "is_player": true,
+            "skin": {
+              "name": "Egg"
             },
             "afk": false,
             "team": 0
@@ -6026,6 +6053,18 @@
             "team": 0
           },
           {
+            "name": "+888",
+            "clan": "ɴᴇᴇx",
+            "country": 643,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Bam"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "2Mandrill.dmg",
             "clan": "",
             "country": -1,
@@ -6078,18 +6117,6 @@
             "team": 0
           },
           {
-            "name": "The queen",
-            "clan": "",
-            "country": 380,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "IceWitch_IceQueen"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "phybertatnik",
             "clan": "",
             "country": -1,
@@ -6115,32 +6142,6 @@
               "color_feet": 65408
             },
             "afk": true,
-            "team": 0
-          },
-          {
-            "name": "Felo",
-            "clan": "",
-            "country": 262,
-            "score": 628,
-            "is_player": true,
-            "skin": {
-              "name": "Egg"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "Hlyfar",
-            "clan": "✝.Wαrn1x",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "Frog",
-              "color_body": 14285568,
-              "color_feet": 13958912
-            },
-            "afk": false,
             "team": 0
           },
           {
@@ -7067,9 +7068,9 @@
         "country": 905,
         "name": "DDNet GER - Solo",
         "map": {
-          "name": "Crooked Mind",
-          "sha256": "355e8a79192ee88363259f61c134a08ecd0ee7800c15d0b9e7a8faea22ba764d",
-          "size": 384752
+          "name": "Rocket Challenge",
+          "sha256": "37c87f8f4a4245eeea7e837edc14bda1566e103394c50a95fff06a0adce09f3f",
+          "size": 424542
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
@@ -7407,6 +7408,18 @@
             "team": 6
           },
           {
+            "name": "wubaop",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "santa_flokes"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "GodlyFlamer",
             "clan": "",
             "country": -1,
@@ -7471,6 +7484,18 @@
             "team": 0
           },
           {
+            "name": "Brownie",
+            "clan": "yousuck",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "nanas"
+            },
+            "afk": true,
+            "team": 0
+          },
+          {
             "name": "Banan",
             "clan": "iCe-Ice",
             "country": 56,
@@ -7483,6 +7508,18 @@
             },
             "afk": false,
             "team": 5
+          },
+          {
+            "name": "(connecting)",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": ""
+            },
+            "afk": true,
+            "team": 0
           },
           {
             "name": "тυx",
@@ -7852,7 +7889,44 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "testbot",
+            "clan": "",
+            "country": 756,
+            "score": 50,
+            "is_player": true,
+            "skin": {
+              "name": "shironanami3"
+            },
+            "afk": true,
+            "team": 0
+          },
+          {
+            "name": "(1)testbot",
+            "clan": "",
+            "country": 756,
+            "score": 394,
+            "is_player": true,
+            "skin": {
+              "name": "shironanami3"
+            },
+            "afk": true,
+            "team": 0
+          },
+          {
+            "name": "(2)testbot",
+            "clan": "",
+            "country": 756,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "shironanami3"
+            },
+            "afk": true,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -8214,18 +8288,6 @@
         "client_score_kind": "time",
         "requires_login": false,
         "clients": [
-          {
-            "name": "jana",
-            "clan": "Đono₩all",
-            "country": -1,
-            "score": 636,
-            "is_player": true,
-            "skin": {
-              "name": "default_flower"
-            },
-            "afk": false,
-            "team": 0
-          },
           {
             "name": "Ļåҕ | Kron0s",
             "clan": "Ļåҕ",
@@ -9197,12 +9259,12 @@
             "clan": "",
             "country": -1,
             "score": -9999,
-            "is_player": false,
+            "is_player": true,
             "skin": {
               "name": "mermydon_glowcoala"
             },
             "afk": false,
-            "team": -1
+            "team": 0
           },
           {
             "name": "Majestic",
@@ -9223,12 +9285,12 @@
             "clan": "",
             "country": -1,
             "score": -9999,
-            "is_player": false,
+            "is_player": true,
             "skin": {
               "name": "Q_SpongeBob"
             },
             "afk": false,
-            "team": -1
+            "team": 0
           },
           {
             "name": "kll",
@@ -9438,13 +9500,39 @@
             "team": 11
           },
           {
-            "name": "nickz",
+            "name": "selivere",
+            "clan": "",
+            "country": 112,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "greyfox"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "stupidduck",
             "clan": "",
             "country": -1,
             "score": -9999,
             "is_player": true,
             "skin": {
-              "name": "J_JuShiFu_XX"
+              "name": "yishun"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "chmura",
+            "clan": "",
+            "country": 616,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "bluekitty",
+              "color_body": 11206400,
+              "color_feet": 11010047
             },
             "afk": false,
             "team": 0
@@ -9603,10 +9691,24 @@
             "name": "^OmaR<^",
             "clan": "",
             "country": 218,
-            "score": -9999,
+            "score": 5153,
             "is_player": true,
             "skin": {
               "name": "BananaCat"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "SongeR",
+            "clan": "",
+            "country": -1,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "greyfox",
+              "color_body": 11665219,
+              "color_feet": 10616636
             },
             "afk": false,
             "team": 0
@@ -9815,7 +9917,7 @@
             "name": "I'm",
             "clan": "",
             "country": -1,
-            "score": -9999,
+            "score": 4876,
             "is_player": true,
             "skin": {
               "name": "BananaCat"
@@ -9904,9 +10006,9 @@
         "game_type": "Gores",
         "name": "[A] |*KoG*| GER3 #21 - Insane Gores [kog.tw]",
         "map": {
-          "name": "Corazon4caroLin",
-          "sha256": "e1cba7c5ea4fee6b53c3e851344bf8c0f4b0985b1ad9cd5ad9dac01538a357d5",
-          "size": 133262
+          "name": "Mixi4Rouz",
+          "sha256": "5d5b3513c6a2a7f5d88c4c105d376f13dcdf18aec73239a26384cbc376ba82fc",
+          "size": 1082541
         },
         "version": "0.6/0.7 2025.11.3",
         "client_score_kind": "time",
@@ -9930,7 +10032,7 @@
             "name": "我喜歡黑人",
             "clan": "",
             "country": 616,
-            "score": -9999,
+            "score": 875,
             "is_player": true,
             "skin": {
               "name": "kiri4k_white",
@@ -10133,11 +10235,23 @@
             "clan": "",
             "country": 56,
             "score": -9999,
-            "is_player": false,
+            "is_player": true,
             "skin": {
               "name": "babyYoda",
               "color_body": 5219609,
               "color_feet": 12644111
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "L3hcxn",
+            "clan": "",
+            "country": -1,
+            "score": -9999,
+            "is_player": false,
+            "skin": {
+              "name": "Kirisaki_black"
             },
             "afk": false,
             "team": -1
@@ -10152,7 +10266,7 @@
               "name": "Kirisaki"
             },
             "afk": false,
-            "team": 11
+            "team": 0
           },
           {
             "name": "Luna~",
@@ -11123,18 +11237,6 @@
             "team": 0
           },
           {
-            "name": "Farmila",
-            "clan": "ℌeãveή",
-            "country": -1,
-            "score": 140,
-            "is_player": true,
-            "skin": {
-              "name": "for_abuelo"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "Shishkabob",
             "clan": "",
             "country": -1,
@@ -11240,7 +11342,21 @@
               "color_feet": 5172
             },
             "afk": false,
-            "team": 3
+            "team": 0
+          },
+          {
+            "name": "валера67",
+            "clan": "плавкu",
+            "country": -1,
+            "score": 25,
+            "is_player": true,
+            "skin": {
+              "name": "cammostripes",
+              "color_body": 11152896,
+              "color_feet": 0
+            },
+            "afk": false,
+            "team": 0
           },
           {
             "name": "friendly",
@@ -11254,7 +11370,7 @@
               "color_feet": 0
             },
             "afk": false,
-            "team": 3
+            "team": 0
           },
           {
             "name": "☪.the vizzo",
@@ -11266,20 +11382,6 @@
               "name": "france",
               "color_body": 11862016,
               "color_feet": 11993088
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "soker",
-            "clan": "ANK3R",
-            "country": 156,
-            "score": 13,
-            "is_player": true,
-            "skin": {
-              "name": "10Mermyfox",
-              "color_body": 12525312,
-              "color_feet": 11186141
             },
             "afk": false,
             "team": 0
@@ -11309,7 +11411,7 @@
               "color_body": 4332800,
               "color_feet": 4330752
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -11516,7 +11618,7 @@
             "skin": {
               "name": "f_egg"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -11540,7 +11642,7 @@
             "skin": {
               "name": "f_egg"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -12453,7 +12555,7 @@
             "skin": {
               "name": "default"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -13004,6 +13106,20 @@
             "team": 0
           },
           {
+            "name": "soker",
+            "clan": "ANK3R",
+            "country": 156,
+            "score": 29,
+            "is_player": true,
+            "skin": {
+              "name": "10Mermyfox",
+              "color_body": 12525312,
+              "color_feet": 11186141
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "Cιr1✞",
             "clan": "Cιr1✞",
             "country": 643,
@@ -13032,6 +13148,20 @@
             "team": 0
           },
           {
+            "name": "😊",
+            "clan": "",
+            "country": -1,
+            "score": 50,
+            "is_player": true,
+            "skin": {
+              "name": "Mart",
+              "color_body": 16777215,
+              "color_feet": 16777215
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "nameless tee",
             "clan": "",
             "country": -1,
@@ -13055,6 +13185,30 @@
               "color_feet": 16776960
             },
             "afk": true,
+            "team": 0
+          },
+          {
+            "name": "Zvukiraja",
+            "clan": "ຖ1",
+            "country": 8,
+            "score": 113,
+            "is_player": true,
+            "skin": {
+              "name": "cammostripes"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "evolution!?",
+            "clan": "kra",
+            "country": -1,
+            "score": 32,
+            "is_player": true,
+            "skin": {
+              "name": "ahl_War"
+            },
+            "afk": false,
             "team": 0
           },
           {
@@ -13469,7 +13623,8 @@
     },
     {
       "addresses": [
-        "tw-0.6+udp://46.174.54.240:8307"
+        "tw-0.6+udp://46.174.54.240:8307",
+        "tw-0.7+udp://46.174.54.240:8307"
       ],
       "community": "ddnet",
       "location": "eu:ru",
@@ -13481,29 +13636,14 @@
         "country": 643,
         "name": "DDNet RUS - Test #2",
         "map": {
-          "name": "U",
-          "sha256": "ebe7d08d5262cd310a77b3359ff98e5447f6922829c61f7e70006e43ef5a6cfd",
-          "size": 184185
+          "name": "TEST5",
+          "sha256": "7d7362b95d75318445ae42fd4722814e6aaa1fc81048ce0207fed91ac92cf02f",
+          "size": 5759
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": [
-          {
-            "name": "1ntact",
-            "clan": "Gym",
-            "country": 804,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "Nouis",
-              "color_body": 11796353,
-              "color_feet": 12124006
-            },
-            "afk": false,
-            "team": 1
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -13578,7 +13718,7 @@
             "skin": {
               "name": "Kirby_[4]"
             },
-            "afk": true,
+            "afk": false,
             "team": 53
           },
           {
@@ -13736,7 +13876,7 @@
               "color_body": 255,
               "color_feet": 255
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
@@ -13874,7 +14014,7 @@
               "color_body": 0,
               "color_feet": 255
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -13886,7 +14026,7 @@
             "skin": {
               "name": "small_star"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -13900,7 +14040,7 @@
               "color_body": 16737536,
               "color_feet": 16711814
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -13964,7 +14104,7 @@
             "skin": {
               "name": "oldmaёn"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -13980,15 +14120,25 @@
             "team": 0
           },
           {
-            "name": "pupik",
+            "name": "раб kyrokova",
             "clan": "",
-            "country": 52,
-            "score": 59,
+            "country": -1,
+            "score": -1,
             "is_player": true,
             "skin": {
-              "name": "birdball",
-              "color_body": 5439250,
-              "color_feet": 6160202
+              "name": "default"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "боюсь ва",
+            "clan": "",
+            "country": -1,
+            "score": 139,
+            "is_player": true,
+            "skin": {
+              "name": "PaladiN"
             },
             "afk": false,
             "team": 0
@@ -14012,7 +14162,7 @@
             "score": 103,
             "is_player": true,
             "skin": {
-              "name": "omnom_v2"
+              "name": "Colory BLACK"
             },
             "afk": false,
             "team": 0
@@ -14163,7 +14313,7 @@
             "name": "PyzoTryas",
             "clan": "",
             "country": -1,
-            "score": -9999,
+            "score": 153,
             "is_player": true,
             "skin": {
               "name": "cherepashka"
@@ -14215,20 +14365,6 @@
             "is_player": true,
             "skin": {
               "name": "xp"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "дoбpu✞kisa",
-            "clan": "LICH✞",
-            "country": -1,
-            "score": 54,
-            "is_player": true,
-            "skin": {
-              "name": "xp",
-              "color_body": 11033344,
-              "color_feet": 13238271
             },
             "afk": false,
             "team": 0
@@ -14409,7 +14545,32 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "phobia",
+            "clan": "",
+            "country": -1,
+            "score": 1026,
+            "is_player": true,
+            "skin": {
+              "name": "kitty_pinky"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "broken lodik",
+            "clan": "",
+            "country": -1,
+            "score": 734,
+            "is_player": true,
+            "skin": {
+              "name": "greyfox"
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -14854,20 +15015,6 @@
             },
             "afk": true,
             "team": 2
-          },
-          {
-            "name": "fizZy",
-            "clan": "DED",
-            "country": 112,
-            "score": 1749,
-            "is_player": true,
-            "skin": {
-              "name": "kirby_[4]",
-              "color_body": 2883328,
-              "color_feet": 255
-            },
-            "afk": false,
-            "team": 0
           },
           {
             "name": "Dhead",
@@ -15601,7 +15748,7 @@
             "skin": {
               "name": "default"
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -15704,7 +15851,7 @@
               "color_feet": 255
             },
             "afk": false,
-            "team": 2
+            "team": 0
           },
           {
             "name": "mocusbtw",
@@ -15782,7 +15929,7 @@
               "color_feet": 5594645
             },
             "afk": false,
-            "team": 12
+            "team": 0
           },
           {
             "name": "ПОНЧИК",
@@ -16190,6 +16337,20 @@
             },
             "afk": false,
             "team": 0
+          },
+          {
+            "name": "1ntact",
+            "clan": "Gym",
+            "country": 804,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Nouis",
+              "color_body": 11796353,
+              "color_feet": 12124006
+            },
+            "afk": false,
+            "team": 1
           }
         ]
       }
@@ -16294,20 +16455,6 @@
             "team": 0
           },
           {
-            "name": "c00lkidd",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "cute small propeller",
-              "color_body": 16776960,
-              "color_feet": 16776960
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "a1waysfirst",
             "clan": "",
             "country": 233,
@@ -16327,18 +16474,6 @@
             "is_player": true,
             "skin": {
               "name": "Icewitch_BlackCat"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "bananchiki",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "bananacat"
             },
             "afk": false,
             "team": 0
@@ -16614,18 +16749,6 @@
             "team": 0
           },
           {
-            "name": "tsadasdasd",
-            "clan": "",
-            "country": -1,
-            "score": 1858,
-            "is_player": true,
-            "skin": {
-              "name": "twintri"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "Хватит",
             "clan": "",
             "country": -1,
@@ -16894,6 +17017,18 @@
             "team": 0
           },
           {
+            "name": "sevenloveee",
+            "clan": "KAZANTIP",
+            "country": 643,
+            "score": 1802,
+            "is_player": true,
+            "skin": {
+              "name": "blacktee"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "Sanya_nigaa",
             "clan": "",
             "country": -1,
@@ -16927,6 +17062,18 @@
             "is_player": true,
             "skin": {
               "name": "beast"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "BBSsosiskaHQD",
+            "clan": "InfiniteLSD",
+            "country": 578,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "blazulite_white"
             },
             "afk": false,
             "team": 0
@@ -17297,32 +17444,7 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": [
-          {
-            "name": "nexy",
-            "clan": "",
-            "country": 196,
-            "score": 1203,
-            "is_player": true,
-            "skin": {
-              "name": "10Fox"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "nr",
-            "clan": "",
-            "country": 643,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "Enzo"
-            },
-            "afk": false,
-            "team": 0
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -17886,6 +18008,20 @@
             "team": 0
           },
           {
+            "name": "mohammedjx14",
+            "clan": "",
+            "country": -1,
+            "score": 287,
+            "is_player": true,
+            "skin": {
+              "name": "santa_saddo",
+              "color_body": 2096895,
+              "color_feet": 3211263
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "кислая",
             "clan": "",
             "country": -1,
@@ -18245,6 +18381,34 @@
             "team": 4
           },
           {
+            "name": "decided world",
+            "clan": "Нефор",
+            "country": 484,
+            "score": 671,
+            "is_player": true,
+            "skin": {
+              "name": "icey-nanami",
+              "color_body": 33,
+              "color_feet": 11435775
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "Megan Fox",
+            "clan": "NGG",
+            "country": 484,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "icey-nanami",
+              "color_body": 16711715,
+              "color_feet": 13753343
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "The_6aHaH4uK",
             "clan": "3.3.2",
             "country": -1,
@@ -18380,7 +18544,20 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "kerimbababiro",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "default"
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -18758,6 +18935,18 @@
             },
             "afk": false,
             "team": 0
+          },
+          {
+            "name": "blank(7378)(d)",
+            "clan": "Скума",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "china"
+            },
+            "afk": false,
+            "team": 0
           }
         ]
       }
@@ -18785,18 +18974,6 @@
         "client_score_kind": "time",
         "requires_login": false,
         "clients": [
-          {
-            "name": "BBSsosiskaHQD",
-            "clan": "InfiniteLSD",
-            "country": 578,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "blazulite_white"
-            },
-            "afk": false,
-            "team": 0
-          },
           {
             "name": "рдыуке",
             "clan": "",
@@ -18981,7 +19158,7 @@
             "skin": {
               "name": "default_flower"
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
@@ -18993,6 +19170,20 @@
             "skin": {
               "name": "Ado",
               "color_body": 16711935,
+              "color_feet": 255
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "wfw",
+            "clan": "",
+            "country": -1,
+            "score": 34,
+            "is_player": true,
+            "skin": {
+              "name": "Mint Choco",
+              "color_body": 255,
               "color_feet": 255
             },
             "afk": false,
@@ -19666,6 +19857,18 @@
             "team": 0
           },
           {
+            "name": "nexy",
+            "clan": "",
+            "country": 196,
+            "score": 1665,
+            "is_player": true,
+            "skin": {
+              "name": "10Fox"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "Счастье",
             "clan": "я крип",
             "country": -408,
@@ -19763,6 +19966,18 @@
             "is_player": true,
             "skin": {
               "name": "voodoo_default_flower"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "nr",
+            "clan": "",
+            "country": 643,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Enzo"
             },
             "afk": false,
             "team": 0
@@ -20901,6 +21116,18 @@
             "is_player": true,
             "skin": {
               "name": "ghana"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "lexiayimm",
+            "clan": "",
+            "country": 792,
+            "score": 1068,
+            "is_player": true,
+            "skin": {
+              "name": "kitty_pinky"
             },
             "afk": false,
             "team": 0
@@ -23153,42 +23380,35 @@
             "name": "Ndrs",
             "clan": "mrfs",
             "country": -1,
-            "score": 94,
+            "score": 105,
             "is_player": true
           },
           {
             "name": "oBc.Laki",
             "clan": "ΛLIVΣ",
             "country": 524,
-            "score": 44,
-            "is_player": true
-          },
-          {
-            "name": "SarKy",
-            "clan": "baldñ",
-            "country": 724,
-            "score": 30,
+            "score": 59,
             "is_player": true
           },
           {
             "name": "banzaiii",
             "clan": "",
             "country": -1,
-            "score": 41,
+            "score": 42,
             "is_player": true
           },
           {
             "name": "SharkoBello",
             "clan": "bald",
             "country": 380,
-            "score": 30,
+            "score": 63,
             "is_player": true
           },
           {
             "name": "wexum",
             "clan": "bald",
             "country": 804,
-            "score": 193,
+            "score": 213,
             "is_player": true
           },
           {
@@ -23202,28 +23422,28 @@
             "name": "saske®",
             "clan": "SicK/bees",
             "country": -1,
-            "score": 117,
+            "score": 125,
             "is_player": true
           },
           {
             "name": "glitchinmatrix",
             "clan": "cheating",
             "country": -1,
-            "score": 218,
+            "score": 246,
             "is_player": true
           },
           {
             "name": "Luc-cold-hand",
             "clan": "",
             "country": 250,
-            "score": 95,
+            "score": 112,
             "is_player": true
           },
           {
             "name": "sehr Altes Bier",
             "clan": "dilfs",
             "country": 364,
-            "score": 192,
+            "score": 209,
             "is_player": true
           },
           {
@@ -23272,7 +23492,15 @@
           "size": 105820
         },
         "version": "0.6.4, 1.3.2",
-        "clients": []
+        "clients": [
+          {
+            "name": "SarKy",
+            "clan": "baldñ",
+            "country": 724,
+            "score": 0,
+            "is_player": true
+          }
+        ]
       }
     },
     {
@@ -24031,32 +24259,7 @@
         "flags": [
           "tutorial"
         ],
-        "clients": [
-          {
-            "name": "antonyvapors",
-            "clan": "",
-            "country": -1,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "default"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "Claude",
-            "clan": "",
-            "country": 860,
-            "score": 332,
-            "is_player": true,
-            "skin": {
-              "name": "default"
-            },
-            "afk": false,
-            "team": 0
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -24308,7 +24511,7 @@
               "color_body": 2883583,
               "color_feet": 2883839
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -25012,7 +25215,7 @@
             "skin": {
               "name": "tuzi"
             },
-            "afk": true,
+            "afk": false,
             "team": 1
           },
           {
@@ -25149,7 +25352,7 @@
               "color_body": 9259776,
               "color_feet": 9259801
             },
-            "afk": false,
+            "afk": true,
             "team": 0
           },
           {
@@ -25213,34 +25416,6 @@
             "team": 0
           },
           {
-            "name": "pivnoepuzosaito",
-            "clan": "",
-            "country": -1,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "greyfox",
-              "color_body": 11140917,
-              "color_feet": 1387009
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "Latexxs.",
-            "clan": "",
-            "country": 124,
-            "score": 1630,
-            "is_player": true,
-            "skin": {
-              "name": "greyfox",
-              "color_body": 16214784,
-              "color_feet": 10490885
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "Espia",
             "clan": "",
             "country": 262,
@@ -25248,6 +25423,18 @@
             "is_player": true,
             "skin": {
               "name": "mainblack"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "divine bovine",
+            "clan": "",
+            "country": 540,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "firefox"
             },
             "afk": false,
             "team": 0
@@ -26793,7 +26980,7 @@
             "skin": {
               "name": "JuKKi"
             },
-            "afk": false,
+            "afk": true,
             "team": 34
           },
           {
@@ -26817,7 +27004,7 @@
             "score": -1,
             "is_player": true,
             "skin": {
-              "name": "dmnpurple"
+              "name": "dmnkiriblack"
             },
             "afk": false,
             "team": 51
@@ -26928,32 +27115,6 @@
             "team": 0
           },
           {
-            "name": "Kᴋɛʀᴀ♡",
-            "clan": "",
-            "country": 0,
-            "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "10mermyfox",
-              "color_body": 14959646,
-              "color_feet": 14959902
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "stupidduck",
-            "clan": "",
-            "country": -1,
-            "score": 1211,
-            "is_player": true,
-            "skin": {
-              "name": "yishun"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "cvt",
             "clan": "",
             "country": -1,
@@ -27039,9 +27200,9 @@
         "game_type": "FoxNet Gores",
         "name": "[GER] FoxNet - Main Gores",
         "map": {
-          "name": "Koggers",
-          "sha256": "7ed0c1fdfda9958ef64e29ef5d7be1e8c68a546da3c89b226eb31c893de267dd",
-          "size": 1102009
+          "name": "MATTE",
+          "sha256": "56379bc16d5ff02afbf5b0a898c614e3922c60e80abf2b34ba68e82c86e274ab",
+          "size": 646950
         },
         "version": "v3.2.1",
         "client_score_kind": "time",
@@ -27761,7 +27922,7 @@
             "name": "sweetee",
             "clan": "sweetee",
             "country": -1,
-            "score": 25,
+            "score": 27,
             "is_player": true,
             "skin": {
               "body": {
@@ -28253,7 +28414,7 @@
             "name": "⚜t1zyy⚜",
             "clan": "clan t1zyy",
             "country": -1,
-            "score": 42,
+            "score": 41,
             "is_player": true,
             "skin": {
               "name": "santa_zombie1"
@@ -28265,7 +28426,7 @@
             "name": "никсер",
             "clan": "",
             "country": -1,
-            "score": 33,
+            "score": 36,
             "is_player": true,
             "skin": {
               "name": "ahl_chinesefox"
@@ -29347,30 +29508,18 @@
         "requires_login": false,
         "clients": [
           {
-            "name": "Alomia",
+            "name": "(connecting)",
             "clan": "",
             "country": 250,
             "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "icey-twinbop",
-              "color_body": 14548919,
-              "color_feet": 15073230
-            },
-            "afk": false,
-            "team": 0
+            "is_player": false
           },
           {
-            "name": "iParano",
-            "clan": "retired.",
+            "name": "(connecting)",
+            "clan": "",
             "country": 250,
             "score": -1,
-            "is_player": true,
-            "skin": {
-              "name": "oldman"
-            },
-            "afk": false,
-            "team": 0
+            "is_player": false
           }
         ]
       }
@@ -29705,7 +29854,22 @@
         "version": "0.6.4, 19.5",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "NF",
+            "clan": "龙宫",
+            "country": 156,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "Yroo",
+              "color_body": 7929680,
+              "color_feet": 7929780
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -31078,7 +31242,19 @@
               "color_body": 65408,
               "color_feet": 14548864
             },
-            "afk": true,
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "[D] 19.",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Ghostsk"
+            },
+            "afk": false,
             "team": 0
           }
         ]
@@ -31440,6 +31616,18 @@
             },
             "afk": false,
             "team": 0
+          },
+          {
+            "name": "GDH GUI",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "Cute_kiddy_cat"
+            },
+            "afk": false,
+            "team": 0
           }
         ]
       }
@@ -31500,7 +31688,7 @@
               "color_body": 11190169,
               "color_feet": 12668818
             },
-            "afk": false,
+            "afk": true,
             "team": -1
           }
         ]
@@ -31610,7 +31798,7 @@
             "skin": {
               "name": "Dumbahh_Yinyin"
             },
-            "afk": false,
+            "afk": true,
             "team": -1
           },
           {
@@ -31635,6 +31823,20 @@
               "name": "glow_contrastfox",
               "color_body": 11861983,
               "color_feet": 7339776
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "YeraL",
+            "clan": "Infinity's",
+            "country": 152,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "greyfox",
+              "color_body": 13275904,
+              "color_feet": 12779264
             },
             "afk": false,
             "team": 0
@@ -31718,35 +31920,35 @@
             "name": "Aycee",
             "clan": "JIKƛRU",
             "country": -104,
-            "score": 129,
+            "score": 146,
             "is_player": true
           },
           {
             "name": "Duolingo",
             "clan": "",
             "country": 84,
-            "score": 123,
+            "score": 133,
             "is_player": true
           },
           {
             "name": ":.:.:",
             "clan": "Away",
             "country": 246,
-            "score": 83,
+            "score": 92,
             "is_player": true
           },
           {
             "name": "Elizin",
             "clan": "",
             "country": -1,
-            "score": 100,
+            "score": 142,
             "is_player": true
           },
           {
             "name": "W",
             "clan": "",
             "country": 76,
-            "score": 45,
+            "score": 52,
             "is_player": true
           }
         ]
@@ -32346,7 +32548,7 @@
             "name": "虎牙ld:247340",
             "clan": "中国",
             "country": 156,
-            "score": -1,
+            "score": 2596,
             "is_player": true,
             "skin": {
               "name": "greyfox"
@@ -32358,7 +32560,7 @@
             "name": "张漁歌",
             "clan": "",
             "country": -1,
-            "score": -1,
+            "score": 2596,
             "is_player": true,
             "skin": {
               "name": "ghostjtj"
@@ -32370,7 +32572,7 @@
             "name": "芋泥",
             "clan": "",
             "country": 156,
-            "score": -1,
+            "score": 2596,
             "is_player": true,
             "skin": {
               "name": "nanami",
@@ -32384,7 +32586,7 @@
             "name": "今夜満天星",
             "clan": "",
             "country": 156,
-            "score": -1,
+            "score": 2596,
             "is_player": true,
             "skin": {
               "name": "LingLong"
@@ -32396,7 +32598,7 @@
             "name": "MightyBeast",
             "clan": "",
             "country": 156,
-            "score": -1,
+            "score": 2596,
             "is_player": true,
             "skin": {
               "name": "HaiMo_BaiHu",
@@ -34782,7 +34984,7 @@
             "team": 0
           },
           {
-            "name": "(1)neredesin se",
+            "name": "neredesin sen",
             "clan": "",
             "country": -1,
             "score": -9999,
@@ -34875,6 +35077,20 @@
             "is_player": true,
             "skin": {
               "name": "batman"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "bilirim",
+            "clan": "AƚŁaŋƚs",
+            "country": 792,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "glow_sheep",
+              "color_body": 16777215,
+              "color_feet": 12648192
             },
             "afk": false,
             "team": 0
@@ -35262,25 +35478,20 @@
         "game_type": "Gores",
         "name": "[A] |*KoG*| GER4 #2 - Main Gores [kog.tw]",
         "map": {
-          "name": "ChillerDragores12",
-          "sha256": "0c10990caf69728fa69519b35a90ca89299da49dc2d23a6ea5044d6f139435d3",
-          "size": 1397616
+          "name": "Neverland",
+          "sha256": "d7650a09a8ad2404f122261ec2018c3258102b3ec57b70a71fcde32e8e058eaf",
+          "size": 459106
         },
         "version": "0.6/0.7 2025.11.3",
         "client_score_kind": "time",
         "requires_login": true,
         "clients": [
           {
-            "name": "PSFP5",
+            "name": "(connecting)",
             "clan": "",
             "country": 784,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "cool_greyfox"
-            },
-            "afk": false,
-            "team": 0
+            "score": -1,
+            "is_player": false
           },
           {
             "name": "-aLP",
@@ -35534,6 +35745,18 @@
             "team": 0
           },
           {
+            "name": "Барни",
+            "clan": "",
+            "country": -1,
+            "score": -9999,
+            "is_player": false,
+            "skin": {
+              "name": "default"
+            },
+            "afk": false,
+            "team": -1
+          },
+          {
             "name": "BabaNaRowerze",
             "clan": "",
             "country": 616,
@@ -35670,12 +35893,12 @@
             "clan": "",
             "country": 826,
             "score": -9999,
-            "is_player": false,
+            "is_player": true,
             "skin": {
               "name": "king-greyfox"
             },
             "afk": false,
-            "team": -1
+            "team": 0
           },
           {
             "name": "v12",
@@ -36150,32 +36373,6 @@
         "client_score_kind": "time",
         "requires_login": true,
         "clients": [
-          {
-            "name": "Mercadona",
-            "clan": "",
-            "country": 907,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "greyfox_flower",
-              "color_body": 5024386,
-              "color_feet": 5024474
-            },
-            "afk": false,
-            "team": 1
-          },
-          {
-            "name": "L3hcxn",
-            "clan": "",
-            "country": -1,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "Kirisaki_black"
-            },
-            "afk": false,
-            "team": 1
-          },
           {
             "name": "ohh make sense",
             "clan": "",
@@ -36905,7 +37102,7 @@
             "score": 0,
             "is_player": true,
             "skin": {
-              "name": "depig"
+              "name": "Doro"
             },
             "afk": false,
             "team": 0
@@ -36914,7 +37111,7 @@
             "name": "veqi",
             "clan": "",
             "country": 688,
-            "score": 0,
+            "score": 44,
             "is_player": true,
             "skin": {
               "name": "default_flower"
@@ -36947,7 +37144,7 @@
               "color_body": 8126208,
               "color_feet": 8323327
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
@@ -36982,7 +37179,7 @@
             "name": "Sky³²❤",
             "clan": "",
             "country": -1,
-            "score": 30,
+            "score": 31,
             "is_player": true,
             "skin": {
               "name": "xxmi",
@@ -37022,7 +37219,7 @@
             "name": "fakearika",
             "clan": "Cøde-F",
             "country": 504,
-            "score": 37,
+            "score": 40,
             "is_player": true,
             "skin": {
               "name": "cammogreyfox",
@@ -37690,22 +37887,7 @@
           "name": "fng"
         },
         "version": "0.6.5 fng2 1.10",
-        "clients": [
-          {
-            "name": "Zorkat",
-            "clan": "TeeBull🐂",
-            "country": -1,
-            "score": 180,
-            "is_player": true
-          },
-          {
-            "name": "✝Ich1m4ru?✝",
-            "clan": "ოooղ☾",
-            "country": 392,
-            "score": 88,
-            "is_player": true
-          }
-        ]
+        "clients": []
       }
     },
     {
@@ -38572,20 +38754,6 @@
             "team": 0
           },
           {
-            "name": "cleber da rua",
-            "clan": "",
-            "country": -1,
-            "score": 46,
-            "is_player": true,
-            "skin": {
-              "name": "10nanami",
-              "color_body": 16776960,
-              "color_feet": 12713728
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "[D] Porko",
             "clan": "",
             "country": -302,
@@ -38943,7 +39111,7 @@
               "name": "amor"
             },
             "afk": false,
-            "team": 0
+            "team": 2
           },
           {
             "name": "namo da ana",
@@ -38958,6 +39126,18 @@
             },
             "afk": false,
             "team": 0
+          },
+          {
+            "name": "PGB3_",
+            "clan": "GamesBr3",
+            "country": 76,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "cardboard_box"
+            },
+            "afk": false,
+            "team": 2
           },
           {
             "name": "Gggasasadada",
@@ -39077,7 +39257,7 @@
             "name": "eu",
             "clan": "",
             "country": 76,
-            "score": -1,
+            "score": 1964,
             "is_player": true,
             "skin": {
               "name": "brr_brr_patapim"
@@ -39089,7 +39269,7 @@
             "name": "Voyager",
             "clan": "",
             "country": 76,
-            "score": -1,
+            "score": 1988,
             "is_player": true,
             "skin": {
               "name": "ahl_chinesefox"
@@ -39157,7 +39337,7 @@
             "name": "LukasTheBR",
             "clan": "BRS",
             "country": 76,
-            "score": -1,
+            "score": 1981,
             "is_player": true,
             "skin": {
               "name": "m_nainiumao_c"
@@ -39218,22 +39398,22 @@
             "team": 0
           },
           {
-            "name": "Bigulim",
+            "name": "Bigulim 1",
             "clan": "Ƀigʊʟɨm",
             "country": -1,
-            "score": -1,
+            "score": -9999,
             "is_player": true,
             "skin": {
               "name": "petunia"
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           },
           {
-            "name": "(1)Bigulim",
+            "name": "Bigulim",
             "clan": "Ƀigʊʟɨm",
             "country": -1,
-            "score": -1,
+            "score": -9999,
             "is_player": true,
             "skin": {
               "name": "petunia"
@@ -39379,7 +39559,22 @@
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "cleber da rua",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "10nanami",
+              "color_body": 16776960,
+              "color_feet": 12713728
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
@@ -39440,7 +39635,7 @@
               "name": "Bat"
             },
             "afk": false,
-            "team": 0
+            "team": 21
           },
           {
             "name": "Aceituna",
@@ -39450,6 +39645,32 @@
             "is_player": true,
             "skin": {
               "name": "nanas"
+            },
+            "afk": false,
+            "team": 21
+          },
+          {
+            "name": "rowler",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "nanami",
+              "color_body": 10238975,
+              "color_feet": 13049087
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "bai ning bing",
+            "clan": "",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "chocolate_ice_cream_kz"
             },
             "afk": false,
             "team": 0
@@ -39763,6 +39984,18 @@
             "team": 0
           },
           {
+            "name": "(1)alwwario",
+            "clan": "me:♿ | Kh",
+            "country": 76,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "sejun"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "s6g9s",
             "clan": "",
             "country": -1,
@@ -39770,6 +40003,20 @@
             "is_player": true,
             "skin": {
               "name": "P-Exibo"
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
+            "name": "ProTaco",
+            "clan": "",
+            "country": 76,
+            "score": 329,
+            "is_player": true,
+            "skin": {
+              "name": "oldschool",
+              "color_body": 16776960,
+              "color_feet": 0
             },
             "afk": false,
             "team": 0
@@ -39988,6 +40235,20 @@
         "requires_login": false,
         "clients": [
           {
+            "name": "Vercetti",
+            "clan": "",
+            "country": 76,
+            "score": -9999,
+            "is_player": true,
+            "skin": {
+              "name": "",
+              "color_body": 11832576,
+              "color_feet": 11832576
+            },
+            "afk": false,
+            "team": 0
+          },
+          {
             "name": "vull",
             "clan": "",
             "country": -1,
@@ -40000,18 +40261,6 @@
             },
             "afk": false,
             "team": 40
-          },
-          {
-            "name": "NIGHTx",
-            "clan": "",
-            "country": -101,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "kiri4k_"
-            },
-            "afk": false,
-            "team": 0
           },
           {
             "name": "! Arthur",
@@ -40059,7 +40308,7 @@
               "name": "ToyBomb"
             },
             "afk": false,
-            "team": 0
+            "team": 40
           },
           {
             "name": "jardola_pro",
@@ -40095,20 +40344,6 @@
             "is_player": true,
             "skin": {
               "name": "Smiley"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "pka",
-            "clan": "",
-            "country": -1,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "default",
-              "color_body": 16776960,
-              "color_feet": 16711935
             },
             "afk": false,
             "team": 0
@@ -40458,7 +40693,7 @@
               "color_body": 8191787,
               "color_feet": 11534208
             },
-            "afk": false,
+            "afk": true,
             "team": -1
           },
           {
@@ -40537,20 +40772,6 @@
               "color_feet": 10977536
             },
             "afk": true,
-            "team": 0
-          },
-          {
-            "name": "jl21",
-            "clan": "",
-            "country": 70,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "glowfox",
-              "color_body": 65280,
-              "color_feet": 16776960
-            },
-            "afk": false,
             "team": 0
           }
         ]
@@ -42230,9 +42451,9 @@
         "country": 840,
         "name": "DDNet USA2 - Moderate",
         "map": {
-          "name": "Short",
-          "sha256": "30d8a841e476d087fbe800bdfcb263d3b744b3b9fdf7bc0b653ab57a3cd6cb13",
-          "size": 11341
+          "name": "Sunreal",
+          "sha256": "0d6c0eeaf559486ff447119ac30156b75d93331d210b3f94909d0835cea842c1",
+          "size": 1014239
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
@@ -42254,7 +42475,7 @@
             "name": "Valuc",
             "clan": "Water Lily",
             "country": -1,
-            "score": 232,
+            "score": -1,
             "is_player": true,
             "skin": {
               "name": "carbonfox"
@@ -42697,20 +42918,6 @@
             "team": 0
           },
           {
-            "name": "morkovkq",
-            "clan": "плавкu",
-            "country": -1,
-            "score": 0,
-            "is_player": true,
-            "skin": {
-              "name": "cammostripes",
-              "color_body": 11152896,
-              "color_feet": 0
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "[D] :-3",
             "clan": "[SBA]",
             "country": 804,
@@ -43110,30 +43317,6 @@
             "team": 20
           },
           {
-            "name": "selivere",
-            "clan": "",
-            "country": 112,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "greyfox"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
-            "name": "norox48",
-            "clan": "",
-            "country": 250,
-            "score": -9999,
-            "is_player": true,
-            "skin": {
-              "name": "coala_x_ninja"
-            },
-            "afk": false,
-            "team": 0
-          },
-          {
             "name": "kiril13",
             "clan": "",
             "country": 76,
@@ -43488,7 +43671,7 @@
             "name": "fhwsikk",
             "clan": "sperma",
             "country": 907,
-            "score": 40,
+            "score": 45,
             "is_player": true
           },
           {
@@ -43502,7 +43685,7 @@
             "name": "ST4|qwift",
             "clan": "sperma",
             "country": -1,
-            "score": 33,
+            "score": 34,
             "is_player": true
           },
           {
@@ -43516,7 +43699,7 @@
             "name": "panzomarezka",
             "clan": "",
             "country": 275,
-            "score": 48,
+            "score": 55,
             "is_player": true
           }
         ]
@@ -44414,7 +44597,7 @@
             "skin": {
               "name": "default"
             },
-            "afk": true,
+            "afk": false,
             "team": 0
           }
         ]
@@ -44433,14 +44616,27 @@
         "game_type": "*AGores",
         "name": "Ger ~ || Legion(A) Gores Server [EASY]",
         "map": {
-          "name": "VampEz1",
-          "sha256": "0a173098049e992af1b1db7e1bb183892aec65413c662cc8425212736f33a237",
-          "size": 350625
+          "name": "BLACK_SMOKE",
+          "sha256": "149d33758f7e4b5b6751f9fbf55121df252191e656d73e098d4332662871cd6c",
+          "size": 676295
         },
         "version": "0.6.4, 19.9",
         "client_score_kind": "time",
         "requires_login": false,
-        "clients": []
+        "clients": [
+          {
+            "name": "Spiral",
+            "clan": "Bromacia",
+            "country": -1,
+            "score": -1,
+            "is_player": true,
+            "skin": {
+              "name": "whis"
+            },
+            "afk": false,
+            "team": 0
+          }
+        ]
       }
     },
     {
